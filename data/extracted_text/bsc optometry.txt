@@ -1,0 +1,47 @@
+6/4/26, 12:28 PM 14.139.185.150/university/api/college_course_details.php
+
+COLLEGE & COURSE DETAILS
+
+Admission Year
+
+---Select Academic Year---- ¥
+
+Select Course ---Select Course---- ¥
+OR
+
+Select College ---Select College---- ¥
+
+KERALA UNIVERSITY OF HEALTH SCIENCES, THRISSUR
+
+LIST OF AFFILIATED COLLEGES FOR B Sc Optometry FOR THE ADMISSION YEAR 2026
+No. College
+1 AL-SALAMA Eye Hospital, Perinthalmanna
+2 Little Flower Institute of Medical Science & Research Centre, Angamaly
+3 Chaithanya Institute of Optometry and Vision Sciences, Kesavadasapuram, Thiruvananthapuram
+4 Malabar Medical College Institute of Allied and Health Sciences ,Ulliyeri ,Kozhikode
+5 Ahalia School of Optometry & Research Centre, Palakkad
+6 Govt. Medical College, Thiruvananthapuram
+7 Susruta School of Optometry & Visual Sciences
+8 A.K.G Co-operative institute of health sciences, Mavilayi, Kannur
+9 Dr.Somervell Memorial C.S.I Medical College, Karakonam
+10 ‘Travancore College of Allied Health Sciences, Thathamala,Kollam
+11 KMCT College of Allied Health Sciences, Mukkam, Kozhikode
+12 Dr. Tony's School of Optometry, Aluva
+13. Al Azhar College of Allied Health Science, Thodupuzha, Idukki
+
+14.139.185.150/university/api/college_course_details.php
+
+Intake
+
+1/2
+
+6/4/26, 12:28 PM 14.139.185.150/university/api/college_course_details.php
+
+14 Al Shifa College of Allied Healthcare, Perinthalmanna,Malappuram 0
+15 Govt. Medical College, Kozhikkode 0
+16 = Medical Trust Institute of Medical Sciences, Kochi 0
+
+Total Colleges: 16 0
+
+14.139.185.150/university/api/college_course_details.php 2/2
+

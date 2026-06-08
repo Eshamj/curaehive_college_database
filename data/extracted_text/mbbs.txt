@@ -1,0 +1,220 @@
+6/4/26, 9:07 AM 14.139.185.150/university/api/college_course_details.php
+
+COLLEGE & COURSE DETAILS
+
+Admission Year
+
+---Select Academic Year---- ¥
+
+Select Course ---Select Course---- ¥
+OR
+
+Select College ---Select College---- ¥
+
+KERALA UNIVERSITY OF HEALTH SCIENCES, THRISSUR
+
+LIST OF AFFILIATED COLLEGES FOR MBBS FOR THE ADMISSION YEAR 2026
+No. College
+1 Govt. T.D Medical College, Alappuzha
+2 Pushpagiri Institute of Medical Sciences & Research Centre, Thiruvalla
+3 Dr Moopen's Medical College, Wayanad
+4 Govt.Medical College,Palakkad
+5 Government Medical College, Konni
+
+6 Amala Institute of Medical Sciences, Thrissur
+
+7 Government Medical College,Kannur
+
+8 Govt. Medical College, Kozhikode
+
+9 Mount Zion Medical College Hospital
+
+10 Kannur Medical College, Kannur
+
+11 KMCT Medical College, Kozhikkode
+
+12 S.R.Medical College and Research Center, Varkala
+
+13 Azeezia Institute of Medical Sciences & Research, Kollam
+
+14.139.185.150/university/api/college_course_details.php
+
+Intake
+
+175
+
+100
+
+150
+
+100
+
+100
+
+100
+
+100
+
+250
+
+150
+
+250
+
+100
+
+1/2
+
+6/4/26, 9:07 AM
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+Dr. Somervell Memorial CSI Medical College, Karakonam
+
+MES Medical College, Malappuram
+
+P. K. DAS INSTITUTE OF MEDICAL SCIENCES
+
+Government Medical College,Ernakulam
+
+Malabar Medical College Hospital & Research Centre, Kozhikkode
+Palakkad Institute of Medical Sciences, Walayar
+
+Govt. Medical College, Kottayam
+
+Sree Uthradom Thirunal (SUT) Academy of Medical Sciences, Thiruvananthapuram
+
+Believers Church Medical College Hospital
+
+Govt.Medical College,Manjeri
+
+Govt. Medical College, Thrissur
+
+Sree Gokulam Medical College & Research Foundation, Thiruvananthapuram
+Govt. Medical College, Kollam
+
+Govt. Medical College, Thiruvananthapuram
+
+Sree Narayana Institute of Medical Sciences, Ernakulam
+
+Govt. Medical College, Idukki
+
+Malankara Orthodox Syrian Church Medical College, Kolencherry
+
+Kerala Medical College,Mangode, Palakkad
+
+Government Medical College, Kasaragod
+
+Government Medical College, Wayanad
+
+Jubilee Mission Medical College & Research Institute, Thrissur
+
+Travancore Medical College, Kollam
+
+Al Azhar Medical College and Super Speciality Hospital, Ezhalloor, Thodupuzha
+Karuna Medical College, Palakkad
+
+Total Colleges: 37
+
+14.139.185.150/university/api/college_course_details.php
+
+14.139.185.150/university/api/college_course_details.php
+
+150
+
+150
+
+250
+
+110
+
+250
+
+100
+
+175
+
+250
+
+100
+
+110
+
+175
+
+150
+
+110
+
+250
+
+150
+
+100
+
+100
+
+150
+
+50
+
+50
+
+150
+
+200
+
+250
+
+150
+
+5105
+
+2/2
+
