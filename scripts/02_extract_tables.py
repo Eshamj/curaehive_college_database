@@ -1,33 +1,55 @@
 import os
+import re
 import pandas as pd
 
 TEXT_FOLDER = "data/extracted_text"
-OUTPUT_FILE = "data/processed/master_raw_text.csv"
+OUTPUT_FILE = "data/processed/college_records.csv"
 
-rows = []
+records = []
 
-for file in os.listdir(TEXT_FOLDER):
+txt_files = os.listdir(TEXT_FOLDER)
 
-    if file.endswith(".txt"):
+for file in txt_files:
 
-        path = os.path.join(TEXT_FOLDER, file)
+    if not file.endswith(".txt"):
+        continue
 
-        with open(path, "r", encoding="utf-8") as f:
-            text = f.read()
+    print(f"Processing {file}")
 
-        rows.append({
+    path = os.path.join(TEXT_FOLDER, file)
+
+    with open(path, "r", encoding="utf-8") as f:
+        text = f.read()
+
+    lines = text.split("\n")
+
+    for line in lines:
+
+        line = line.strip()
+
+        if len(line) < 5:
+            continue
+
+        # Remove extra spaces
+        clean_line = re.sub(r"\s+", " ", line)
+
+        records.append({
             "source_file": file,
-            "text": text
+            "text": clean_line
         })
 
-df = pd.DataFrame(rows)
+df = pd.DataFrame(records)
 
-df.to_csv(OUTPUT_FILE, index=False)
+df.to_csv(
+    OUTPUT_FILE,
+    index=False
+)
 
-print("="*50)
-print("MASTER DATASET CREATED")
-print("="*50)
-print(df.head())
 print()
-print("Rows:", len(df))
-print("Saved to:", OUTPUT_FILE)
+print("=" * 50)
+print("COLLEGE RECORD DATASET CREATED")
+print("=" * 50)
+print(df.head(20))
+print()
+print(f"Rows: {len(df)}")
+print(f"Saved to: {OUTPUT_FILE}")

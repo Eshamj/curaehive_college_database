@@ -38,3 +38,18 @@ folders = [
 
 for folder in folders:
     os.makedirs(folder, exist_ok=True)
+
+# Districts for current project
+
+TARGET_DISTRICTS = [
+    "kottayam",
+    "changanacherry",
+    "pala",
+    "kanjirappally",
+
+    "thrissur",
+    "trichur",
+    "irinjalakuda",
+    "chalakudy",
+    "guruvayur"
+]
